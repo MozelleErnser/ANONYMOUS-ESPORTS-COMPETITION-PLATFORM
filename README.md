@@ -52,8 +52,8 @@ This platform leverages **Zama's Fully Homomorphic Encryption** to perform compu
 
 ## 📍 Platform Information
 
-- **Live Platform**: [https://anonymous-esports.vercel.app/](https://anonymous-esports.vercel.app/)
-- **GitHub Repository**: [https://github.com/your-username/AnonymousEsports](https://github.com/your-username/AnonymousEsports)
+- **Live Platform**: [https://anonymous-esports-competition-platf.vercel.app/](https://anonymous-esports-competition-platf.vercel.app/)
+- **GitHub Repository**: [https://github.com/MozelleErnser/ANONYMOUS-ESPORTS-COMPETITION-PLATFORM](https://github.com/MozelleErnser/ANONYMOUS-ESPORTS-COMPETITION-PLATFORM)
 - **Smart Contract Address**: `0xCab249331011A6B0C01fCBa48290fA4972f5dB6a`
 - **Network**: Ethereum Sepolia Testnet
 - **Documentation**: [COMPETITION-QUICK-START.md](./COMPETITION-QUICK-START.md)
@@ -61,7 +61,7 @@ This platform leverages **Zama's Fully Homomorphic Encryption** to perform compu
 ## 🚀 Quick Start
 
 ### For Users
-1. Visit the [Live Platform](https://anonymous-esports.vercel.app/)
+1. Visit the [Live Platform](https://anonymous-esports-competition-platf.vercel.app/)
 2. Connect your MetaMask wallet to Sepolia testnet
 3. Browse available competitions or create your own
 4. Cast anonymous votes with complete privacy
@@ -72,7 +72,7 @@ This platform leverages **Zama's Fully Homomorphic Encryption** to perform compu
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/AnonymousEsports.git
+git clone https://github.com/MozelleErnser/ANONYMOUS-ESPORTS-COMPETITION-PLATFORM.git
 cd AnonymousEsports
 
 # Install dependencies
