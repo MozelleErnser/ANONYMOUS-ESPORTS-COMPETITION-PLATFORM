@@ -2,6 +2,8 @@
 
 A revolutionary decentralized platform for anonymous esports competition voting, built with cutting-edge Fully Homomorphic Encryption (FHE) technology to ensure complete privacy in gaming competitions.
 
+[ANONYMOUS ESPORTS COMPETITION PLATFORM.mp4](https://streamable.com/r9e7tv)
+
 ## 🎯 Project Overview
 
 ### Mission
